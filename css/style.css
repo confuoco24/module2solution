@@ -2,3 +2,19 @@
 	display: flex;
 }
 
+body{
+	font-family: Helvetica;
+}
+
+section{
+	background-color: lightgrey;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: right;
+	font-size: 130%;
+}
