@@ -42,3 +42,34 @@ h2{
 	
 }
 
+.beef {
+	background-color: indianred;
+	
+}
+
+.sushi {
+	background-color: skyblue;
+	
+}
+
+@media (min-width: 992px) {
+	.col-lg-4 {
+	float: left;
+	}
+	.col-lg-4{
+		width = 33%
+	}
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) 
+	.col-md-6 {
+	float: left;
+	}
+	
+	.col-md-6{
+		width: 50%;
+	}
+
+}
+
